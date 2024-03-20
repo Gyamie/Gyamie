@@ -9,9 +9,9 @@
 - 👯 I’m totally open to collaborate on **data related projects.**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Gyamie"><b>Gyamie</b></a>
-- 📫 Reach me on **LinkedIn the details are below.**
+- 📫 You can reach me on **LinkedIn the detail is below.**
 
-- ⚡ Fun fact **I enjoy singing lullaby to babies.**
+- ⚡ Fun fact **I enjoy singing lullabies to babies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
