@@ -11,8 +11,6 @@
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Gyamie"><b>Gyamie</b></a>
 - 📫 You can reach me on **LinkedIn the detail is below.**
 
-- ⚡ Fun fact **I enjoy singing lullabies to babies.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akua-boat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akua-boat/" height="30" width="40" /></a>
